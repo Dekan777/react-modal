@@ -1,0 +1,10 @@
+.cast {
+  padding-bottom: 4px;
+}
+
+.rev {
+  padding-bottom: 50px;
+}
+.activeLink {
+  text-decoration: underline orange;
+}
